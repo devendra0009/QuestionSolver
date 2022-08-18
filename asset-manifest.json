@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuestionSolver/static/css/main.e0ad9dfb.css",
+    "main.js": "/QuestionSolver/static/js/main.75964fa8.js",
+    "static/media/logo.jpeg": "/QuestionSolver/static/media/logo.e788155196825dbc37fe.jpeg",
+    "index.html": "/QuestionSolver/index.html",
+    "main.e0ad9dfb.css.map": "/QuestionSolver/static/css/main.e0ad9dfb.css.map",
+    "main.75964fa8.js.map": "/QuestionSolver/static/js/main.75964fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ad9dfb.css",
+    "static/js/main.75964fa8.js"
+  ]
+}
